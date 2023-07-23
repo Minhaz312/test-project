@@ -1,0 +1,51 @@
+:root {
+  --primary-color: #fcca19;
+}
+
+.bg-cs-primary {
+  background-color: var(--primary-color);
+}
+
+.sub-cat {
+  display: none;
+}
+.sub2-cat {
+  display: none;
+}
+.main-cat:hover .sub-cat {
+  display: block;
+}
+.sub-item:hover .sub2-cat {
+  display: block;
+}
+
+.slick-dots {
+  bottom: 20px !important;
+}
+@keyframes left-reveal {
+  0%{
+    margin-left: -200%;
+  }100%{
+    margin-left: 0;
+  }
+}
+.leftbar {
+  animation-name: left-reveal;
+  animation-duration: .33s;
+  animation-iteration-count: 1;
+}
+
+@keyframes zoom {
+  0%{
+    margin-top: -300px;
+    opacity: 0;
+  }100%{
+    margin-top: 0px;
+    opacity: 1;
+  }
+}
+.slick-current div div h1, .slick-current div div h3{
+  animation-name: zoom;
+  animation-duration: 1.8s;
+  animation-iteration-count: 1;
+}

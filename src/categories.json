@@ -1,0 +1,117 @@
+[
+    {"id":1,"name":"Western Wear","icon":"cloth.png","subcategories":[
+        {"id":1,"name":"Top Wear","subcategories":[
+            {"id":1,"name":"Shirts"},
+            {"id":2,"name":"T-Shirts"},
+            {"id":3,"name":"Tops"}
+        ]},
+        {"id":2,"name":"Bottom Wear","subcategories":[
+            {"id":1,"name":"Jeans"},
+            {"id":2,"name":"Jeggings"},
+            {"id":3,"name":"Palazzos"},
+            {"id":4,"name":"Jumpsuits"}
+        ]}
+    ]},
+    {"id":2,"name":"Ethnic Wear","icon":"cloth2.jpg","subcategories":[
+        {"id":1,"name":"Jaipuri kurti","subcategories":[
+            {"id":1,"name":"A-Line Kurti"},
+            {"id":2,"name":"Straight Kurti"},
+            {"id":3,"name":"Anarkali Kurti"},
+            {"id":4,"name":"Angrakha Kurti"},
+            {"id":5,"name":"Kaftan Kurti"}
+        ]},
+        {"id":2,"name":"Sarees","subcategories":[
+            {"id":1,"name":"Slik Sarees"},
+            {"id":2,"name":"Cotton & Cotton Silk Sarees"},
+            {"id":3,"name":"Georgette Sarees"},
+            {"id":4,"name":"Chiffon & Satin Sarees"}
+        ]},
+        {"id":3,"name":"Kurta Sets","subcategories":[
+            {"id":1,"name":"Anarkali & Blend Flared Kurta"},
+            {"id":2,"name":"All Kurtas"}
+        ]}
+    ]},
+    {"id":3,"name":"Foot Wear","icon":"footwear.png","subcategories":[
+        {"id":1,"name":"Flats","subcategories":[
+            {"id":1,"name":"Open Toe Flats"},
+            {"id":2,"name":"Mules"},
+            {"id":3,"name":"One Toe Flats"},
+            {"id":4,"name":"T-Strap Flats"},
+            {"id":5,"name":"Mojaris"}
+        ]},
+        {"id":2,"name":"Boots","subcategories":[
+            {"id":1,"name":"Cow Boy Boots"},
+            {"id":2,"name":"Pointed Boots"},
+            {"id":3,"name":"Ankle Boots"}
+        ]}
+    ]},
+    {"id":4,"name":"Makeup & Grooming","icon":"makeup.png","subcategories":[
+        {"id":1,"name":"Flats","subcategories":[
+            {"id":1,"name":"Open Toe Flats"},
+            {"id":2,"name":"Mules"},
+            {"id":3,"name":"One Toe Flats"},
+            {"id":4,"name":"T-Strap Flats"},
+            {"id":5,"name":"Mojaris"}
+        ]},
+        {"id":2,"name":"Boots","subcategories":[
+            {"id":1,"name":"Cow Boy Boots"},
+            {"id":2,"name":"Pointed Boots"},
+            {"id":3,"name":"Ankle Boots"}
+        ]}
+    ]},
+    {"id":5,"name":"Lingerie & Sleepwear","icon":"lingerie.jpg","subcategories":[
+        {"id":1,"name":"Flats","subcategories":[
+            {"id":1,"name":"Open Toe Flats"},
+            {"id":2,"name":"Mules"},
+            {"id":3,"name":"One Toe Flats"},
+            {"id":4,"name":"T-Strap Flats"},
+            {"id":5,"name":"Mojaris"}
+        ]},
+        {"id":2,"name":"Boots","subcategories":[
+            {"id":1,"name":"Cow Boy Boots"},
+            {"id":2,"name":"Pointed Boots"},
+            {"id":3,"name":"Ankle Boots"}
+        ]}
+    ]},
+    {"id":6,"name":"Baby & Kids","icon":"babykids.jpg","subcategories":[
+        {"id":1,"name":"Flats","subcategories":[
+            {"id":1,"name":"Open Toe Flats"},
+            {"id":2,"name":"Mules"},
+            {"id":3,"name":"One Toe Flats"},
+            {"id":4,"name":"T-Strap Flats"},
+            {"id":5,"name":"Mojaris"}
+        ]},
+        {"id":2,"name":"Boots","subcategories":[
+            {"id":1,"name":"Cow Boy Boots"},
+            {"id":2,"name":"Pointed Boots"},
+            {"id":3,"name":"Ankle Boots"}
+        ]}
+    ]},
+    {"id":7,"name":"Mens Section","icon":"menssection.png","subcategories":[
+        {"id":1,"name":"Clothing","subcategories":[
+            {"id":1,"name":"Open Toe Flats"},
+            {"id":2,"name":"Mules"},
+            {"id":3,"name":"One Toe Flats"},
+            {"id":4,"name":"T-Strap Flats"},
+            {"id":5,"name":"Mojaris"}
+        ]},
+        {"id":2,"name":"Foot Wear","subcategories":[
+            {"id":1,"name":"Cow Boy Boots"},
+            {"id":2,"name":"Pointed Boots"},
+            {"id":3,"name":"Ankle Boots"}
+        ]},
+        {"id":2,"name":"Innerwear & Loungewear","subcategories":[
+            {"id":1,"name":"Cow Boy Boots"},
+            {"id":2,"name":"Pointed Boots"},
+            {"id":3,"name":"Ankle Boots"}
+        ]},
+        {"id":2,"name":"Watches & Accessories","subcategories":[
+            {"id":1,"name":"Cow Boy Boots"},
+            {"id":2,"name":"Pointed Boots"},
+            {"id":3,"name":"Ankle Boots"}
+        ]}
+    ]},
+    {"id":8,"name":"Flash Deals","icon":"flashdeal.jpg","subcategories":[
+        {"id":1,"name":"Flash Sale","subcategories":[]}
+    ]}
+]
