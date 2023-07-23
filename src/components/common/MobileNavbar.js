@@ -15,7 +15,7 @@ export default function MobileNavbar({showSidebar,handleShowSidebar}) {
         <div className='relative overflow-hidden w-[250px] bg-[#2c2c2c] text-slate-200 h-full p-3 leftbar'>
             <div className='mb-7'>
                 <div className='flex items-center justify-between'>
-                    <img src="/images/logo.png" className='h-[50px]' />
+                    <img src="/images/logo.png" alt="" className='h-[50px]' />
                     <IoMdClose className="text-[30px] cursor-pointer" onClick={handleShowSidebar} />
                 </div>
             </div>
@@ -34,7 +34,7 @@ export default function MobileNavbar({showSidebar,handleShowSidebar}) {
                     <p>Home</p>
                 </Link>
                 <Link to="/trace-order" className='flex items-center mt-3 gap-x-3'>
-                    <img src="/images/icon/trace-order.svg" />
+                    <img src="/images/icon/trace-order.svg" alt="" />
                     <p>Trace Order</p>
                 </Link>
             </div>
